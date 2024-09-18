@@ -3,11 +3,11 @@ import Link from 'next/link';
 export default function Page() {
   return (
     <main>
-      <h1>CPRG 306: Web Development 2 - Assignments</h1>
-      <p>
+      <h1 className="font-bold">CPRG 306: Web Development 2 - Assignments</h1>
+      <p className="m-2">
       <Link href ="./week-2">week-2</Link>
       </p>
-      <p>
+      <p className="m-2">
       <Link href ="./week-3">week-3</Link>
       </p>
     </main>
