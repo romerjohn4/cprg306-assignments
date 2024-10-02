@@ -13,6 +13,12 @@ export default function Page() {
       <p className="m-2">
       <Link href ="./week-4">week-4</Link>
       </p>
+      <p className="m-2">
+      <Link href ="./week-5">week-5</Link>
+      </p>
+      <p className="m-2">
+      <Link href ="./dogtrial">Dog</Link>
+      </p>
     </main>
    
   );
