@@ -37,7 +37,7 @@ export default function NewItem() {
 
     return ( 
 <div className="flex justify-center items-center p-4">
-  <div className="text-center bg-gray-800 p-10 w-96 space-y-4">
+  <div className="text-center bg-gray-500 p-10 w-96 space-y-4">
 
     {/* Item Name */}
     <form className="w-full max-w-xs mx-auto space-y-4" onSubmit={(event) => handleSubmit(event)}>
