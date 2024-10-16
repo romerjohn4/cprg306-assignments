@@ -22,6 +22,9 @@ export default function Page() {
       <p className="m-2">
       <Link href ="./week-6">week-6</Link>
       </p>
+      <p className="m-2">
+      <Link href ="./week-7">week-7</Link>
+      </p>
     </main>
   );
 }
