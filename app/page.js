@@ -5,9 +5,6 @@ export default function Page() {
     <main>
       <h1 className="font-bold">CPRG 306: Web Development 2 - Assignments</h1>
       <p className="m-2">
-      <Link href ="./dogtrial">Dog</Link>
-      </p>
-      <p className="m-2">
       <Link href ="./week-2">week-2</Link>
       </p>
       <p className="m-2">
@@ -20,10 +17,19 @@ export default function Page() {
       <Link href ="./week-5">week-5</Link>
       </p>
       <p className="m-2">
+      <Link href ="./week-5-demo">week 5 demo</Link>
+      </p>
+      <p className="m-2">
       <Link href ="./week-6">week-6</Link>
       </p>
       <p className="m-2">
       <Link href ="./week-7">week-7</Link>
+      </p>
+      <p className="m-2">
+      <Link href ="./week-8">week-8</Link>
+      </p>
+      <p className="m-2">
+      <Link href ="./week-8-demo">week 8 demo</Link>
       </p>
     </main>
   );
