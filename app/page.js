@@ -37,6 +37,9 @@ export default function Page() {
       <p className="m-2">
       <Link href ="./week-10">week 10</Link>
       </p>
+      <p className="m-2 text-xxl">
+      <Link href ="./Project-Nutrient-Tracker">Nutrition Checker</Link>
+      </p>
     </main>
   );
 }
